@@ -44,6 +44,6 @@ yarn
 yarn run watch # Using nodemon for auto-reloading
 
 
-## Related Projects
+## Disclaimer
 
-* [Pokemon Gopher](https://github.com/racerxdl/pokemon-gopher) - Fetch information about pokémons with GraphQL and GO 🙂
+This was built as part of a videos on React and GraphQL at [@KarlHadwen](https://www.youtube.com/watch?v=yKFoAF7J0mc)  ;)
