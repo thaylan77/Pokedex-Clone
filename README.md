@@ -2,10 +2,11 @@
 
 This application (a Pokemon application) was built using create-react-app as a base, and the technologies used were React & Apollo.
 
-<p align="center">
+## Preview
 ![Preview](pokemon-preview.png?raw=true)
+
+## Preview 2 
 ![Preview](pokemon-preview2.png?raw=true)
-</p>
 
 ## How to use
 
