@@ -5,7 +5,7 @@ import { Pokemon } from '../components/Pokemon';
 
 export function PokemonsContainer() {
   const { data: { pokemons = [] } = {} } = useQuery(GET_POKEMONS, {
-    variables: { first: 150 },
+    variables: { first: 151 },
   });
 
   return (
