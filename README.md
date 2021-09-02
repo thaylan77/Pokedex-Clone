@@ -42,7 +42,7 @@ yarn start
 ```sh
 yarn
 yarn run watch # Using nodemon for auto-reloading
-
+```
 
 ## Disclaimer
 
